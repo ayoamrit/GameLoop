@@ -1,6 +1,6 @@
 package main;
 
-import Game.GamePanel;
+import game.GamePanel;
 
 import javax.swing.*;
 
